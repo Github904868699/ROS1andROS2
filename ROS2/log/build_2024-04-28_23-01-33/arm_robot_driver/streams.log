@@ -1,0 +1,37 @@
+[0.415s] Invoking command in '/home/dudu/arm_robot_ws/src/arm_robot_driver': PYTHONPATH=/home/dudu/arm_robot_ws/build/arm_robot_driver/prefix_override:/home/dudu/arm_robot_ws/install/arm_robot_driver/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/arm_robot_driver build --build-base /home/dudu/arm_robot_ws/build/arm_robot_driver/build install --record /home/dudu/arm_robot_ws/build/arm_robot_driver/install.log --single-version-externally-managed install_data
+[0.585s] running egg_info
+[0.591s] creating ../../build/arm_robot_driver/arm_robot_driver.egg-info
+[0.591s] writing ../../build/arm_robot_driver/arm_robot_driver.egg-info/PKG-INFO
+[0.591s] writing dependency_links to ../../build/arm_robot_driver/arm_robot_driver.egg-info/dependency_links.txt
+[0.591s] writing entry points to ../../build/arm_robot_driver/arm_robot_driver.egg-info/entry_points.txt
+[0.591s] writing requirements to ../../build/arm_robot_driver/arm_robot_driver.egg-info/requires.txt
+[0.592s] writing top-level names to ../../build/arm_robot_driver/arm_robot_driver.egg-info/top_level.txt
+[0.592s] writing manifest file '../../build/arm_robot_driver/arm_robot_driver.egg-info/SOURCES.txt'
+[0.592s] reading manifest file '../../build/arm_robot_driver/arm_robot_driver.egg-info/SOURCES.txt'
+[0.592s] writing manifest file '../../build/arm_robot_driver/arm_robot_driver.egg-info/SOURCES.txt'
+[0.592s] running build
+[0.592s] running build_py
+[0.592s] creating /home/dudu/arm_robot_ws/build/arm_robot_driver/build
+[0.592s] creating /home/dudu/arm_robot_ws/build/arm_robot_driver/build/lib
+[0.592s] creating /home/dudu/arm_robot_ws/build/arm_robot_driver/build/lib/arm_robot_driver
+[0.592s] copying arm_robot_driver/__init__.py -> /home/dudu/arm_robot_ws/build/arm_robot_driver/build/lib/arm_robot_driver
+[0.592s] copying arm_robot_driver/arm_robot_driver.py -> /home/dudu/arm_robot_ws/build/arm_robot_driver/build/lib/arm_robot_driver
+[0.592s] running install
+[0.592s] running install_lib
+[0.593s] creating /home/dudu/arm_robot_ws/install/arm_robot_driver/lib/python3.10/site-packages/arm_robot_driver
+[0.593s] copying /home/dudu/arm_robot_ws/build/arm_robot_driver/build/lib/arm_robot_driver/__init__.py -> /home/dudu/arm_robot_ws/install/arm_robot_driver/lib/python3.10/site-packages/arm_robot_driver
+[0.593s] copying /home/dudu/arm_robot_ws/build/arm_robot_driver/build/lib/arm_robot_driver/arm_robot_driver.py -> /home/dudu/arm_robot_ws/install/arm_robot_driver/lib/python3.10/site-packages/arm_robot_driver
+[0.593s] byte-compiling /home/dudu/arm_robot_ws/install/arm_robot_driver/lib/python3.10/site-packages/arm_robot_driver/__init__.py to __init__.cpython-310.pyc
+[0.593s] byte-compiling /home/dudu/arm_robot_ws/install/arm_robot_driver/lib/python3.10/site-packages/arm_robot_driver/arm_robot_driver.py to arm_robot_driver.cpython-310.pyc
+[0.593s] running install_data
+[0.593s] creating /home/dudu/arm_robot_ws/install/arm_robot_driver/share/ament_index
+[0.593s] creating /home/dudu/arm_robot_ws/install/arm_robot_driver/share/ament_index/resource_index
+[0.593s] creating /home/dudu/arm_robot_ws/install/arm_robot_driver/share/ament_index/resource_index/packages
+[0.593s] copying resource/arm_robot_driver -> /home/dudu/arm_robot_ws/install/arm_robot_driver/share/ament_index/resource_index/packages
+[0.593s] copying package.xml -> /home/dudu/arm_robot_ws/install/arm_robot_driver/share/arm_robot_driver
+[0.593s] running install_egg_info
+[0.594s] Copying ../../build/arm_robot_driver/arm_robot_driver.egg-info to /home/dudu/arm_robot_ws/install/arm_robot_driver/lib/python3.10/site-packages/arm_robot_driver-0.0.0-py3.10.egg-info
+[0.595s] running install_scripts
+[0.613s] Installing arm_robot_driver script to /home/dudu/arm_robot_ws/install/arm_robot_driver/lib/arm_robot_driver
+[0.614s] writing list of installed files to '/home/dudu/arm_robot_ws/build/arm_robot_driver/install.log'
+[0.630s] Invoked command in '/home/dudu/arm_robot_ws/src/arm_robot_driver' returned '0': PYTHONPATH=/home/dudu/arm_robot_ws/build/arm_robot_driver/prefix_override:/home/dudu/arm_robot_ws/install/arm_robot_driver/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/arm_robot_driver build --build-base /home/dudu/arm_robot_ws/build/arm_robot_driver/build install --record /home/dudu/arm_robot_ws/build/arm_robot_driver/install.log --single-version-externally-managed install_data

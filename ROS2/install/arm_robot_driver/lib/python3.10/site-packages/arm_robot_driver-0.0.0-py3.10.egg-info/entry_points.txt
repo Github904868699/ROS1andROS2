@@ -1,0 +1,3 @@
+[console_scripts]
+arm_robot_driver = arm_robot_driver.arm_robot_driver:main
+

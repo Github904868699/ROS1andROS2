@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/arm_robot_driver/arm_robot_driver.egg-info
+writing ../../build/arm_robot_driver/arm_robot_driver.egg-info/PKG-INFO
+writing dependency_links to ../../build/arm_robot_driver/arm_robot_driver.egg-info/dependency_links.txt
+writing entry points to ../../build/arm_robot_driver/arm_robot_driver.egg-info/entry_points.txt
+writing requirements to ../../build/arm_robot_driver/arm_robot_driver.egg-info/requires.txt
+writing top-level names to ../../build/arm_robot_driver/arm_robot_driver.egg-info/top_level.txt
+writing manifest file '../../build/arm_robot_driver/arm_robot_driver.egg-info/SOURCES.txt'
+reading manifest file '../../build/arm_robot_driver/arm_robot_driver.egg-info/SOURCES.txt'
+writing manifest file '../../build/arm_robot_driver/arm_robot_driver.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/dudu/arm_robot_ws/build/arm_robot_driver/build
+creating /home/dudu/arm_robot_ws/build/arm_robot_driver/build/lib
+creating /home/dudu/arm_robot_ws/build/arm_robot_driver/build/lib/arm_robot_driver
+copying arm_robot_driver/__init__.py -> /home/dudu/arm_robot_ws/build/arm_robot_driver/build/lib/arm_robot_driver
+copying arm_robot_driver/arm_robot_driver.py -> /home/dudu/arm_robot_ws/build/arm_robot_driver/build/lib/arm_robot_driver
+running install
+running install_lib
+creating /home/dudu/arm_robot_ws/install/arm_robot_driver/lib/python3.10/site-packages/arm_robot_driver
+copying /home/dudu/arm_robot_ws/build/arm_robot_driver/build/lib/arm_robot_driver/__init__.py -> /home/dudu/arm_robot_ws/install/arm_robot_driver/lib/python3.10/site-packages/arm_robot_driver
+copying /home/dudu/arm_robot_ws/build/arm_robot_driver/build/lib/arm_robot_driver/arm_robot_driver.py -> /home/dudu/arm_robot_ws/install/arm_robot_driver/lib/python3.10/site-packages/arm_robot_driver
+byte-compiling /home/dudu/arm_robot_ws/install/arm_robot_driver/lib/python3.10/site-packages/arm_robot_driver/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/dudu/arm_robot_ws/install/arm_robot_driver/lib/python3.10/site-packages/arm_robot_driver/arm_robot_driver.py to arm_robot_driver.cpython-310.pyc
+running install_data
+creating /home/dudu/arm_robot_ws/install/arm_robot_driver/share/ament_index
+creating /home/dudu/arm_robot_ws/install/arm_robot_driver/share/ament_index/resource_index
+creating /home/dudu/arm_robot_ws/install/arm_robot_driver/share/ament_index/resource_index/packages
+copying resource/arm_robot_driver -> /home/dudu/arm_robot_ws/install/arm_robot_driver/share/ament_index/resource_index/packages
+copying package.xml -> /home/dudu/arm_robot_ws/install/arm_robot_driver/share/arm_robot_driver
+running install_egg_info
+Copying ../../build/arm_robot_driver/arm_robot_driver.egg-info to /home/dudu/arm_robot_ws/install/arm_robot_driver/lib/python3.10/site-packages/arm_robot_driver-0.0.0-py3.10.egg-info
+running install_scripts
+Installing arm_robot_driver script to /home/dudu/arm_robot_ws/install/arm_robot_driver/lib/arm_robot_driver
+writing list of installed files to '/home/dudu/arm_robot_ws/build/arm_robot_driver/install.log'
